@@ -1,1 +1,7 @@
-STILL WAITING TO COMPLETE THE 50 STARS
+aiohttp==3.11.0
+aiohttp-socks==0.9.1
+fake-useragent==1.5.1
+cryptography==43.0.1
+colorama==0.4.6
+pytz==2024.2
+pyfiglet==1.0.2
