@@ -70,7 +70,8 @@ protocol://user:pass@ip:port
 Running the Bot
 
 Ensure accounts.txt and proxy.txt are configured correctly.
-Run the bot:python bot.py
+Run the bot:
+python main.py
 
 
 Note: Use python3 bot.py if python refers to Python 2 on your system.
