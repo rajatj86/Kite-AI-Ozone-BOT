@@ -1,1 +1,2 @@
-NO NEED TO ENTER PRIVATE KEY TOTAL SAFE
+your_evm(EOA)_address_1
+your_evm(EOA)_address_2
