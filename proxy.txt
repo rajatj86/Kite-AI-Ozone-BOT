@@ -1,1 +1,3 @@
-NEED 50 STARS 
+ip:port # Default Protocol HTTP.
+protocol://ip:port
+protocol://user:pass@ip:port
