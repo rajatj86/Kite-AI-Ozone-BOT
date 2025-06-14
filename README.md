@@ -34,13 +34,17 @@ Optional: Proxy service for enhanced privacy.
 Installation
 
 Clone the Repository:
+```
 git clone https://github.com/rajatj86/KiteAI-AutoBot.git
+```
+```
 cd KiteAI-AutoBot
-
+```
 
 Install Dependencies:
+```
 pip install -r requirements.txt
-
+```
 
 Note: If errors occur, verify the versions of cryptography and eth-account libraries match those in requirements.txt.
 
@@ -71,8 +75,9 @@ Running the Bot
 
 Ensure accounts.txt and proxy.txt are configured correctly.
 Run the bot:
+```
 python main.py
-
+```
 
 Note: Use python3 bot.py if python refers to Python 2 on your system.
 
@@ -133,11 +138,17 @@ Built with ❤️ by Rajatj86
 **Buy Me a Coffee**
 
 
-EVM: 0x1157fC382df809c31A1E463cD874ea2D6d1773D2
-
-SOL: 6xm42DigLjZ7N52CtP1ZXh7YWqZJMVStaagFcW1WckyV
-
-SUI: 0x04f9bb97722293a27d9fd9b227f0aee0ddef78a4947d6105f5930a783d7fc021
-
+EVM:
+```
+0x1157fC382df809c31A1E463cD874ea2D6d1773D2
+```
+SOL: 
+```
+6xm42DigLjZ7N52CtP1ZXh7YWqZJMVStaagFcW1WckyV
+```
+SUI: 
+```
+0x04f9bb97722293a27d9fd9b227f0aee0ddef78a4947d6105f5930a783d7fc021
+```
 
 Thank you for visiting this repository, don't forget to contribute in the form of follows and stars. If you have questions, find an issue, or have suggestions for improvement, feel free to contact me or open an issue in this GitHub repository.
